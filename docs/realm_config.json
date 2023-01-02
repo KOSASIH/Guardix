@@ -1,0 +1,12 @@
+{
+    "app_id": "guardix-liwmc",
+    "config_version": 20210101,
+    "name": "Guardix",
+    "location": "AU",
+    "provider_region": "aws-ap-southeast-2",
+    "deployment_model": "GLOBAL",
+    "environment": "production",
+    "allowed_request_origins": [
+        "https://www.google.com"
+    ]
+}
