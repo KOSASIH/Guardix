@@ -5,8 +5,5 @@
     "location": "AU",
     "provider_region": "aws-ap-southeast-2",
     "deployment_model": "GLOBAL",
-    "environment": "production",
-    "allowed_request_origins": [
-        "https://www.google.com"
-    ]
+    "environment": "production"
 }
