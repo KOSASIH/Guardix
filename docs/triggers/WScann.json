@@ -1,0 +1,17 @@
+{
+    "id": "63b281fb006af1f607c645ff",
+    "name": "WScann",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *",
+        "skip_catchup_events": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Website_Scanner"
+            }
+        }
+    }
+}
