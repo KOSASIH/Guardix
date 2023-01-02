@@ -1,0 +1,17 @@
+{
+    "id": "63b2834784adbad7e31fdc50",
+    "name": "Detects",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *",
+        "skip_catchup_events": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Incident_Detector"
+            }
+        }
+    }
+}
