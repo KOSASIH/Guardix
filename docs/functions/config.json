@@ -17,5 +17,10 @@
         "name": "Vulnerabillity_Scanner",
         "private": false,
         "run_as_system": true
+    },
+    {
+        "name": "Website_Scanner",
+        "private": false,
+        "run_as_system": true
     }
 ]
