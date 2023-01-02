@@ -1,0 +1,17 @@
+{
+    "id": "63b27ffacf609c92b7ba4e71",
+    "name": "Penetration-Test",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *",
+        "skip_catchup_events": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Penetration_Tester"
+            }
+        }
+    }
+}
