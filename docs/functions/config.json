@@ -2,5 +2,10 @@
     {
         "name": "Compromised_Password_Scanner",
         "private": false
+    },
+    {
+        "name": "Cybersecurity_Assessor",
+        "private": false,
+        "run_as_system": true
     }
 ]
