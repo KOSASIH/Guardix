@@ -27,5 +27,10 @@
         "name": "Incident_Detector",
         "private": false,
         "run_as_system": true
+    },
+    {
+        "name": "Incident_Responser",
+        "private": false,
+        "run_as_system": true
     }
 ]
