@@ -47,5 +47,10 @@
         "name": "Awareness_Trainer",
         "private": false,
         "run_as_system": true
+    },
+    {
+        "name": "Awareness_Graphics_Trainer",
+        "private": false,
+        "run_as_system": true
     }
 ]
