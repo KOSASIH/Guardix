@@ -9,6 +9,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOSASIH/Guardix/main?labpath=README.md)
 [![Documentation Status](https://readthedocs.org/projects/guardix/badge/?version=latest)](https://guardix.readthedocs.io/en/latest/?badge=latest)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Guardix.svg/?label=active+issues&show_trend=true&token=23sdfg1U0SGqB7cKtmwHFr62)](https://deepsource.io/gh/KOSASIH/Guardix/?ref=repository-badge)
+[![njsscan sarif](https://github.com/KOSASIH/Guardix/actions/workflows/njsscan.yml/badge.svg)](https://github.com/KOSASIH/Guardix/actions/workflows/njsscan.yml)
 
 # Inspiration
 
