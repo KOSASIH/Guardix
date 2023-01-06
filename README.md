@@ -10,6 +10,7 @@
 [![Documentation Status](https://readthedocs.org/projects/guardix/badge/?version=latest)](https://guardix.readthedocs.io/en/latest/?badge=latest)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Guardix.svg/?label=active+issues&show_trend=true&token=23sdfg1U0SGqB7cKtmwHFr62)](https://deepsource.io/gh/KOSASIH/Guardix/?ref=repository-badge)
 [![njsscan sarif](https://github.com/KOSASIH/Guardix/actions/workflows/njsscan.yml/badge.svg)](https://github.com/KOSASIH/Guardix/actions/workflows/njsscan.yml)
+[![Lint Code Base](https://github.com/KOSASIH/Guardix/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/Guardix/actions/workflows/super-linter.yml)
 
 # Inspiration
 
