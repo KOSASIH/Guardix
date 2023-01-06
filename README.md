@@ -21,3 +21,11 @@ Guardix's mission is to build more secure cyber systems for the enterprises and 
 
 # Description
 Guardix is a smart cyber security system powered by Artificial Intelligence (AI) & Machine Learning (ML) algorithm, which continuously monitors and detects cyber threats. Guardix can safeguard your data from unauthorized access, malware injection, unauthorized changes and malicious outages.
+
+Guardix is the first of its kind, state-of-the-art cyber security system powered by artificial intelligence (AI) and machine learning.
+
+Guardix is a smart cyber security system that protects your business from all types of cyber attacks including phishing, ransomware, malware and more. It’s a cloud-based solution that works on any device and is easy to use.
+
+Guardix AI technology will help you keep your employees safe online by taking proactive steps to prevent attacks before they happen. This includes monitoring email attachments and websites visited, as well as alerting you when suspicious activity occurs.
+
+Guardix uses advanced analytics to detect malicious behavior from multiple layers across your network so you can identify which devices are affected first and quickly contain the threat before it spreads throughout your system or network.
