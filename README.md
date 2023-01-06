@@ -48,3 +48,6 @@ Guardix is a completely new approach to cybersecurity and IT security. The techn
 The Guardix system is a cloud-based service that provides real-time cyber intelligence, alerts and protection against threats, detects attacks in progress, detects malicious activities and attacks, protects against zero-day threats.
 
 The Guardix technology combines several advanced technologies such as neural networks, machine learning algorithms and big data analysis to provide comprehensive protection for all types of devices connected to the internet.
+
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Guardix">Guardix</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH/Guardix">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
