@@ -1,17 +1,17 @@
 {
-    "id": "63b5890484adbad7e3c14548",
-    "name": "Awareness_Train",
-    "type": "SCHEDULED",
-    "config": {
-        "schedule": "*/1 * * * *",
-        "skip_catchup_events": false
-    },
-    "disabled": false,
-    "event_processors": {
-        "FUNCTION": {
-            "config": {
-                "function_name": "Awareness_Trainer"
-            }
-        }
+  "id": "63b5890484adbad7e3c14548",
+  "name": "Awareness_Train",
+  "type": "SCHEDULED",
+  "config": {
+    "schedule": "*/1 * * * *",
+    "skip_catchup_events": false
+  },
+  "disabled": false,
+  "event_processors": {
+    "FUNCTION": {
+      "config": {
+        "function_name": "Awareness_Trainer"
+      }
     }
+  }
 }

@@ -1,18 +1,18 @@
 {
-    "api-key": {
-        "name": "api-key",
-        "type": "api-key",
-        "disabled": true
+  "api-key": {
+    "name": "api-key",
+    "type": "api-key",
+    "disabled": true
+  },
+  "local-userpass": {
+    "name": "local-userpass",
+    "type": "local-userpass",
+    "config": {
+      "autoConfirm": true,
+      "resetPasswordSubject": "Here's a link to reset your password",
+      "resetPasswordUrl": "https://www.guardix.com/resetPassword",
+      "runConfirmationFunction": false
     },
-    "local-userpass": {
-        "name": "local-userpass",
-        "type": "local-userpass",
-        "config": {
-            "autoConfirm": true,
-            "resetPasswordSubject": "Here's a link to reset your password",
-            "resetPasswordUrl": "https://www.guardix.com/resetPassword",
-            "runConfirmationFunction": false
-        },
-        "disabled": false
-    }
+    "disabled": false
+  }
 }
