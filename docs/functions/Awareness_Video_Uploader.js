@@ -1,4 +1,4 @@
-exports = function(arg){
+exports = function (arg) {
   /*
     Accessing application's values:
     var x = context.values.get("value_name");
@@ -14,5 +14,5 @@ exports = function(arg){
 
     Try running in the console below.
   */
-  return {arg: arg};
+  return { arg };
 };

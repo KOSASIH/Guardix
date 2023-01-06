@@ -1,17 +1,17 @@
 {
-    "id": "63b285a8cf609c92b7bb6712",
-    "name": "Threat_Alerts",
-    "type": "SCHEDULED",
-    "config": {
-        "schedule": "*/1 * * * *",
-        "skip_catchup_events": false
-    },
-    "disabled": false,
-    "event_processors": {
-        "FUNCTION": {
-            "config": {
-                "function_name": "Threat_Alerts_Notificator"
-            }
-        }
+  "id": "63b285a8cf609c92b7bb6712",
+  "name": "Threat_Alerts",
+  "type": "SCHEDULED",
+  "config": {
+    "schedule": "*/1 * * * *",
+    "skip_catchup_events": false
+  },
+  "disabled": false,
+  "event_processors": {
+    "FUNCTION": {
+      "config": {
+        "function_name": "Threat_Alerts_Notificator"
+      }
     }
+  }
 }

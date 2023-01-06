@@ -1,25 +1,25 @@
 {
-    "id": "63b58baa84adbad7e3c1e061",
-    "name": "Awareness_Video",
-    "type": "AUTHENTICATION",
-    "config": {
-        "operation_type": "LOGIN",
-        "providers": [
-            "oauth2-facebook",
-            "oauth2-google",
-            "oauth2-apple",
-            "api-key",
-            "local-userpass",
-            "custom-token",
-            "custom-function"
-        ]
-    },
-    "disabled": false,
-    "event_processors": {
-        "FUNCTION": {
-            "config": {
-                "function_name": "Awareness_Video_Uploader"
-            }
-        }
+  "id": "63b58baa84adbad7e3c1e061",
+  "name": "Awareness_Video",
+  "type": "AUTHENTICATION",
+  "config": {
+    "operation_type": "LOGIN",
+    "providers": [
+      "oauth2-facebook",
+      "oauth2-google",
+      "oauth2-apple",
+      "api-key",
+      "local-userpass",
+      "custom-token",
+      "custom-function"
+    ]
+  },
+  "disabled": false,
+  "event_processors": {
+    "FUNCTION": {
+      "config": {
+        "function_name": "Awareness_Video_Uploader"
+      }
     }
+  }
 }
