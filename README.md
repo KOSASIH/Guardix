@@ -39,4 +39,12 @@ Guardix uses advanced analytics to detect malicious behavior from multiple layer
 6. Smart AI-Powered Cybersecurity: Our advanced machine learning system prevents and protects against all forms of cyber attacks regardless of their origin, size or sophistication. These are real-time attacks without signatures, they change every time they launch and target everyone including financial institutions, corporations and governments.
 7. Guardix detects existing, hidden and future threats taking advantage of AI and Machine Learning algorithm.Guardix is a revolutionary software, powered by an all-new and unique security concept, developed to protect you against today's high-tech cyber threats.
 8. A Revolutionary new approach to cyber security powered by AI: Our multi-tier platform protects your online assets against DDoS, Malware, Data Leakage, Phishing and other types of cyber attack. We use patented cognitive learning engine to adjust defense strategy in real time based on detected patterns and analyze the nature & context of the threat.
-9. 
+
+# Point
+Guardix system is a smart security system powered by AI and Machine Learning algorithm.
+
+Guardix is a completely new approach to cybersecurity and IT security. The technology is based on Machine Learning, Artificial Intelligence and Big Data Analysis.
+
+The Guardix system is a cloud-based service that provides real-time cyber intelligence, alerts and protection against threats, detects attacks in progress, detects malicious activities and attacks, protects against zero-day threats.
+
+The Guardix technology combines several advanced technologies such as neural networks, machine learning algorithms and big data analysis to provide comprehensive protection for all types of devices connected to the internet.
