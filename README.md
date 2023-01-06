@@ -16,5 +16,8 @@ Smart cyber security system powered by AI and Machine learning algorithm.
 # Motto
 Secure. Trustworthy. Innovative
 
+# Mission
+Guardix's mission is to build more secure cyber systems for the enterprises and government agencies, by detecting and accurately identifying the most advanced cyber threats in real time.
+
 # Description
 Guardix is a smart cyber security system powered by Artificial Intelligence (AI) & Machine Learning (ML) algorithm, which continuously monitors and detects cyber threats. Guardix can safeguard your data from unauthorized access, malware injection, unauthorized changes and malicious outages.
