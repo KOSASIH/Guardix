@@ -11,4 +11,7 @@ The main focus for traditional anti-virus and firewall solutions has been to det
 The solution lies in using Artificial Intelligence (AI) to find unknown threats before they can cause damage. Guardix offers a comprehensive AI-based solution that uses real-time analysis of network traffic through machine learning algorithms and behavioral analytics to identify and block malicious activity before it can cause damage.
 
 # Guardix
-Smart cyber security system powered by AI and Machine learning algorithm
+Smart cyber security system powered by AI and Machine learning algorithm. 
+
+# Description
+Guardix is a smart cyber security system powered by Artificial Intelligence (AI) & Machine Learning (ML) algorithm, which continuously monitors and detects cyber threats. Guardix can safeguard your data from unauthorized access, malware injection, unauthorized changes and malicious outages.
