@@ -29,3 +29,6 @@ Guardix is a smart cyber security system that protects your business from all ty
 Guardix AI technology will help you keep your employees safe online by taking proactive steps to prevent attacks before they happen. This includes monitoring email attachments and websites visited, as well as alerting you when suspicious activity occurs.
 
 Guardix uses advanced analytics to detect malicious behavior from multiple layers across your network so you can identify which devices are affected first and quickly contain the threat before it spreads throughout your system or network.
+
+# Value Proposition
+1. Guardix provides most effective Cyber threat protection in the cloud, you can use it with no VPN and just with the browser: Guardix will be the last Cyber defense barrier. For individuals and small businesses.
