@@ -1,3 +1,4 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Guardix/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Guardix/tree/main)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KOSASIH/Guardix/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/KOSASIH/Guardix/actions/workflows/jekyll-gh-pages.yml)
 [![CI](https://github.com/KOSASIH/Guardix/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/Guardix/actions/workflows/blank.yml)
 [![OSSAR](https://github.com/KOSASIH/Guardix/actions/workflows/ossar.yml/badge.svg)](https://github.com/KOSASIH/Guardix/actions/workflows/ossar.yml)
