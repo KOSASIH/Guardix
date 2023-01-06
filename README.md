@@ -13,5 +13,8 @@ The solution lies in using Artificial Intelligence (AI) to find unknown threats 
 # Guardix
 Smart cyber security system powered by AI and Machine learning algorithm. 
 
+# Motto
+Secure. Trustworthy. Innovative
+
 # Description
 Guardix is a smart cyber security system powered by Artificial Intelligence (AI) & Machine Learning (ML) algorithm, which continuously monitors and detects cyber threats. Guardix can safeguard your data from unauthorized access, malware injection, unauthorized changes and malicious outages.
