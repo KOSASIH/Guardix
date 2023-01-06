@@ -1,37 +1,37 @@
 {
-  "properties": {
-    "_id": {
-      "bsonType": "objectId"
-    },
-    "hasRings": {
-      "bsonType": "bool"
-    },
-    "mainAtmosphere": {
-      "bsonType": "array",
-      "items": {
-        "bsonType": "string"
-      }
-    },
-    "name": {
-      "bsonType": "string"
-    },
-    "orderFromSun": {
-      "bsonType": "int"
-    },
-    "surfaceTemperatureC": {
-      "bsonType": "object",
-      "properties": {
-        "max": {
-          "bsonType": "int"
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
         },
-        "mean": {
-          "bsonType": "int"
+        "hasRings": {
+            "bsonType": "bool"
         },
-        "min": {
-          "bsonType": "int"
+        "mainAtmosphere": {
+            "bsonType": "array",
+            "items": {
+                "bsonType": "string"
+            }
+        },
+        "name": {
+            "bsonType": "string"
+        },
+        "orderFromSun": {
+            "bsonType": "int"
+        },
+        "surfaceTemperatureC": {
+            "bsonType": "object",
+            "properties": {
+                "max": {
+                    "bsonType": "int"
+                },
+                "mean": {
+                    "bsonType": "int"
+                },
+                "min": {
+                    "bsonType": "int"
+                }
+            }
         }
-      }
-    }
-  },
-  "title": "planet"
+    },
+    "title": "planet"
 }

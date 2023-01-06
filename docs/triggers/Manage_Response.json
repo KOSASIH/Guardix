@@ -1,17 +1,17 @@
 {
-  "id": "63b58d6acf609c92b75d49d0",
-  "name": "Manage_Response",
-  "type": "SCHEDULED",
-  "config": {
-    "schedule": "*/1 * * * *",
-    "skip_catchup_events": false
-  },
-  "disabled": false,
-  "event_processors": {
-    "FUNCTION": {
-      "config": {
-        "function_name": "Response_Manager"
-      }
+    "id": "63b58d6acf609c92b75d49d0",
+    "name": "Manage_Response",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *",
+        "skip_catchup_events": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Response_Manager"
+            }
+        }
     }
-  }
 }

@@ -1,76 +1,76 @@
 [
-  {
-    "name": "Compromised_Password_Scanner",
-    "private": false
-  },
-  {
-    "name": "Cybersecurity_Assessor",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Penetration_Tester",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Vulnerabillity_Scanner",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Website_Scanner",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Incident_Detector",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Incident_Responser",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Threat_Alerts_Notificator",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Phishing_Simulator",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Awareness_Trainer",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Awareness_Graphics_Trainer",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Awareness_Video_Uploader",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Incident_Manager",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Response_Manager",
-    "private": false,
-    "run_as_system": true
-  },
-  {
-    "name": "Threat_Alerts_Manager",
-    "private": false,
-    "run_as_system": true
-  }
+    {
+        "name": "Cybersecurity_Assessor",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Awareness_Trainer",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Incident_Manager",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Awareness_Video_Uploader",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Phishing_Simulator",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Incident_Responser",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Threat_Alerts_Notificator",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Response_Manager",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Compromised_Password_Scanner",
+        "private": false
+    },
+    {
+        "name": "Threat_Alerts_Manager",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Penetration_Tester",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Vulnerabillity_Scanner",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Website_Scanner",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Awareness_Graphics_Trainer",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Incident_Detector",
+        "private": false,
+        "run_as_system": true
+    }
 ]
