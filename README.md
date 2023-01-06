@@ -32,3 +32,5 @@ Guardix uses advanced analytics to detect malicious behavior from multiple layer
 
 # Value Proposition
 1. Guardix provides most effective Cyber threat protection in the cloud, you can use it with no VPN and just with the browser: Guardix will be the last Cyber defense barrier. For individuals and small businesses.
+2. Save time and throw your worries away! If you are looking for experienced Security specialists to secure your infrastructure, contact us. We offer a comprehensive range of services to secure your business by cyber threats in cloud data center hosting, files sharing, email security, anti-phishing protection, mobile security.
+3. Guardix is the most advanced solution on the market that provides specific protection form attacks and allows to detect malicious intents even if the hacker attempts to mislead the system by working inside the company's network.
