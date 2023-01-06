@@ -9,6 +9,8 @@
 [![OSSAR](https://github.com/KOSASIH/Guardix/actions/workflows/ossar.yml/badge.svg)](https://github.com/KOSASIH/Guardix/actions/workflows/ossar.yml)
 [![DevSkim](https://github.com/KOSASIH/Guardix/actions/workflows/devskim.yml/badge.svg)](https://github.com/KOSASIH/Guardix/actions/workflows/devskim.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOSASIH/Guardix/main?labpath=README.md)
+[![Documentation Status](https://readthedocs.org/projects/guardix/badge/?version=latest)](https://guardix.readthedocs.io/en/latest/?badge=latest)
+     
 
 # Inspiration
 The Cyber Security market is one of the fastest growing segments in the IT industry. As technology advances and becomes more sophisticated, cyber threats are becoming more complex and sophisticated as well.
