@@ -1,17 +1,17 @@
 {
-    "id": "63b27f3d006af1f607c5aed5",
-    "name": "Assessment",
-    "type": "SCHEDULED",
-    "config": {
-        "schedule": "*/1 * * * *",
-        "skip_catchup_events": false
-    },
-    "disabled": false,
-    "event_processors": {
-        "FUNCTION": {
-            "config": {
-                "function_name": "Cybersecurity_Assessor"
-            }
-        }
+  "id": "63b27f3d006af1f607c5aed5",
+  "name": "Assessment",
+  "type": "SCHEDULED",
+  "config": {
+    "schedule": "*/1 * * * *",
+    "skip_catchup_events": false
+  },
+  "disabled": false,
+  "event_processors": {
+    "FUNCTION": {
+      "config": {
+        "function_name": "Cybersecurity_Assessor"
+      }
     }
+  }
 }
