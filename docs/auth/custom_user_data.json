@@ -1,7 +1,7 @@
 {
-    "enabled": true,
-    "mongo_service_name": "mongodb-atlas",
-    "database_name": "BuildDb",
-    "collection_name": "Build Collection",
-    "user_id_field": "Guardixer"
+  "enabled": true,
+  "mongo_service_name": "mongodb-atlas",
+  "database_name": "BuildDb",
+  "collection_name": "Build Collection",
+  "user_id_field": "Guardixer"
 }

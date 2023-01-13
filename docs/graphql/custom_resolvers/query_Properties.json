@@ -1,8 +1,8 @@
 {
-    "field_name": "Properties",
-    "function_name": "Website_Scanner",
-    "input_type": "boolean",
-    "input_type_format": "scalar-list",
-    "on_type": "Query",
-    "payload_type_format": ""
+  "field_name": "Properties",
+  "function_name": "Website_Scanner",
+  "input_type": "boolean",
+  "input_type_format": "scalar-list",
+  "on_type": "Query",
+  "payload_type_format": ""
 }

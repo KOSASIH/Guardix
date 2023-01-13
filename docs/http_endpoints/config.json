@@ -1,13 +1,13 @@
 [
-    {
-        "route": "/root",
-        "http_method": "POST",
-        "function_name": "Response_Manager",
-        "validation_method": "NO_VALIDATION",
-        "respond_result": true,
-        "fetch_custom_user_data": false,
-        "create_user_on_auth": false,
-        "disabled": false,
-        "return_type": "JSON"
-    }
+  {
+    "route": "/root",
+    "http_method": "POST",
+    "function_name": "Response_Manager",
+    "validation_method": "NO_VALIDATION",
+    "respond_result": true,
+    "fetch_custom_user_data": false,
+    "create_user_on_auth": false,
+    "disabled": false,
+    "return_type": "JSON"
+  }
 ]
