@@ -1,17 +1,17 @@
 {
-  "id": "63b28425cf609c92b7bb1f5f",
-  "name": "Response",
-  "type": "SCHEDULED",
-  "config": {
-    "schedule": "*/1 * * * *",
-    "skip_catchup_events": false
-  },
-  "disabled": false,
-  "event_processors": {
-    "FUNCTION": {
-      "config": {
-        "function_name": "Incident_Responser"
-      }
+    "id": "63b28425cf609c92b7bb1f5f",
+    "name": "Response",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *",
+        "skip_catchup_events": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Incident_Responser"
+            }
+        }
     }
-  }
 }
