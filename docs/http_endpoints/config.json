@@ -64,5 +64,16 @@
         "create_user_on_auth": true,
         "disabled": false,
         "return_type": "JSON"
+    },
+    {
+        "route": "/enixotic/api/assesment",
+        "http_method": "POST",
+        "function_name": "Cybersecurity_Assessor",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": true,
+        "create_user_on_auth": true,
+        "disabled": false,
+        "return_type": "JSON"
     }
 ]
