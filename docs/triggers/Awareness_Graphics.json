@@ -1,17 +1,17 @@
 {
-  "id": "63b58a3ccf609c92b75c9382",
-  "name": "Awareness_Graphics",
-  "type": "SCHEDULED",
-  "config": {
-    "schedule": "*/1 * * * *",
-    "skip_catchup_events": false
-  },
-  "disabled": false,
-  "event_processors": {
-    "FUNCTION": {
-      "config": {
-        "function_name": "Awareness_Graphics_Trainer"
-      }
+    "id": "63b58a3ccf609c92b75c9382",
+    "name": "Awareness_Graphics",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *",
+        "skip_catchup_events": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Awareness_Graphics_Trainer"
+            }
+        }
     }
-  }
 }

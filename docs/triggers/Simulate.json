@@ -1,25 +1,25 @@
 {
-  "id": "63b2874f006af1f607c74945",
-  "name": "Simulate",
-  "type": "AUTHENTICATION",
-  "config": {
-    "operation_type": "CREATE",
-    "providers": [
-      "oauth2-facebook",
-      "oauth2-google",
-      "oauth2-apple",
-      "api-key",
-      "local-userpass",
-      "custom-token",
-      "custom-function"
-    ]
-  },
-  "disabled": false,
-  "event_processors": {
-    "FUNCTION": {
-      "config": {
-        "function_name": "Phishing_Simulator"
-      }
+    "id": "63b2874f006af1f607c74945",
+    "name": "Simulate",
+    "type": "AUTHENTICATION",
+    "config": {
+        "operation_type": "CREATE",
+        "providers": [
+            "oauth2-facebook",
+            "oauth2-google",
+            "oauth2-apple",
+            "api-key",
+            "local-userpass",
+            "custom-token",
+            "custom-function"
+        ]
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Phishing_Simulator"
+            }
+        }
     }
-  }
 }
