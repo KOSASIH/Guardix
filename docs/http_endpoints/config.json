@@ -119,5 +119,16 @@
         "create_user_on_auth": true,
         "disabled": false,
         "return_type": "JSON"
+    },
+    {
+        "route": "/guardix/api/awareness_graphics_trainer",
+        "http_method": "POST",
+        "function_name": "Awareness_Graphics_Trainer",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": true,
+        "create_user_on_auth": true,
+        "disabled": false,
+        "return_type": "JSON"
     }
 ]
