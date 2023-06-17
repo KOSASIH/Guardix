@@ -1,6 +1,6 @@
 [
     {
-        "route": "/enixotic/Docs",
+        "route": "/guardix/api/phising_simulator",
         "http_method": "POST",
         "function_name": "Phishing_Simulator",
         "validation_method": "NO_VALIDATION",
