@@ -44,7 +44,7 @@
         "return_type": "JSON"
     },
     {
-        "route": "/enixotic/api/test",
+        "route": "/enixotic/api/penetration_tester",
         "http_method": "POST",
         "function_name": "Penetration_Tester",
         "validation_method": "NO_VALIDATION",
