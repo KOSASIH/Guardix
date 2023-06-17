@@ -33,7 +33,7 @@
         "return_type": "JSON"
     },
     {
-        "route": "/enixotic/api/incident_manager",
+        "route": "/guardix/api/incident_manager",
         "http_method": "POST",
         "function_name": "Incident_Manager",
         "validation_method": "NO_VALIDATION",
