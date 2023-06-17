@@ -55,7 +55,7 @@
         "return_type": "JSON"
     },
     {
-        "route": "/guardix/api/assesment",
+        "route": "/guardix/api/cybersecurity_assesor",
         "http_method": "POST",
         "function_name": "Cybersecurity_Assessor",
         "validation_method": "NO_VALIDATION",
