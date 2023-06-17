@@ -11,7 +11,7 @@
         "return_type": "JSON"
     },
     {
-        "route": "/enixotic/api/Docs",
+        "route": "/guardix/api/compromised_password_scanner",
         "http_method": "POST",
         "function_name": "Compromised_Password_Scanner",
         "validation_method": "NO_VALIDATION",
