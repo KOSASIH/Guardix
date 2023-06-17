@@ -1,1 +1,8 @@
-{}
+{
+    "properties": {
+        "properties": {
+            "bsonType": "string"
+        }
+    },
+    "title": "Build Collection"
+}
