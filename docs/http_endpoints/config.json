@@ -22,7 +22,7 @@
         "return_type": "JSON"
     },
     {
-        "route": "/enixotic/api/response",
+        "route": "/guardix/api/incident_responser",
         "http_method": "POST",
         "function_name": "Incident_Responser",
         "validation_method": "NO_VALIDATION",
